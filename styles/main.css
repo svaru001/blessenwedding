@@ -58,7 +58,18 @@ html {
 article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
-
+div#couple h2.ww-title {
+  color: #ffffff;
+}
+.blackbg {
+  background-color: #000000;
+}
+h3.blessen {
+  color: #f58a77;
+}
+h2.gallery-text {
+  color: #ffffff;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -67,7 +78,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #000000;
 }
 
 [tabindex="-1"]:focus {
